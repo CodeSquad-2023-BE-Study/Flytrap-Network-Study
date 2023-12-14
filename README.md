@@ -50,6 +50,7 @@
 ## 🗂️ 발표 자료
 | 날짜 | 발표 자료 | 발표자 |
 | :---: | :--- | :--- |
-| 2023-11-02 (목) | [📝 NIC의 이모저모](https://github.com/CodeSquad-2023-BE-Study/Flytrap-Network-Study/blob/main/week3/Network_Interface_card.md) | [🪐 이린](https://github.com/new-pow) |
-| 2023-11-09 (목) | [📝 ARP](https://docs.google.com/presentation/d/1zRUVYFgvguWa0SgprAyUiW8wElQO67gvLoZN4jhQrh0/edit#slide=id.g2a6bf12dd66_1_58) | [🙈 Ape](https://github.com/crtEvent) |
-| 2023-11-23 (목) | [📝 DHCP](https://github.com/CodeSquad-2023-BE-Study/Flytrap-Network-Study/blob/main/week6/DHCP.md) | [🐣 듀이](https://github.com/jaea-kim) |
+| 2023-11-02 (목) | 📝 [NIC의 이모저모](https://github.com/CodeSquad-2023-BE-Study/Flytrap-Network-Study/blob/main/week3/Network_Interface_card.md) | 🪐 [이린](https://github.com/new-pow) |
+| 2023-11-09 (목) | 📝 [ARP](https://docs.google.com/presentation/d/1zRUVYFgvguWa0SgprAyUiW8wElQO67gvLoZN4jhQrh0/edit#slide=id.g2a6bf12dd66_1_58) | 🙈 [Ape](https://github.com/crtEvent) |
+| 2023-11-23 (목) | 📝 [DHCP](https://github.com/CodeSquad-2023-BE-Study/Flytrap-Network-Study/blob/main/week6/DHCP.md) | 🐣 [듀이](https://github.com/jaea-kim) |
+| 2023-11-30 (목) | 📝 [IP와 CIRD](https://github.com/CodeSquad-2023-BE-Study/Flytrap-Network-Study/blob/main/IP%26CIDR.md) | 🧞‍♂️ [지니](https://github.com/jinny-l)  |
