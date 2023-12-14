@@ -48,6 +48,6 @@
 
 
 ## 🗂️ 발표 자료
-| 날짜 | Chapter | 발표 자료 | 발표자 |
-| :---: | :--- | :--- | :--- |
-| 2023-11-02 (목) | - | [📝 NIC의 이모저모](https://github.com/CodeSquad-2023-BE-Study/Flytrap-Network-Study/blob/main/week3/Network_Interface_card.md) | [🪐 이린](https://github.com/new-pow) |
+| 날짜 | 발표 자료 | 발표자 |
+| :---: | :--- | :--- |
+| 2023-11-02 (목) | [📝 NIC의 이모저모](https://github.com/CodeSquad-2023-BE-Study/Flytrap-Network-Study/blob/main/week3/Network_Interface_card.md) | [🪐 이린](https://github.com/new-pow) |
